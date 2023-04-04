@@ -1,2 +1,2 @@
-# TextUtils
-React JS web application
+# textutils
+ React JS application
